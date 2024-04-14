@@ -1,2 +1,2 @@
 # Sci-techxploer
-Sci-Tech Exploer
+Sci-tech Exploer
